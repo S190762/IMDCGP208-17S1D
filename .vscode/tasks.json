@@ -1,0 +1,12 @@
+{
+
+    "version": "0.1.0",
+    "command": "C:\\msys64\\mingw64\\bin\\clang++.exe",
+    "isShellCommand": true,
+    "args": ["src\\*.cpp", "src\\imgui\\*.cpp", "-std=c++11", "-lglew32", "-lglfw3", "-lgdi32", "-lopengl32", "-mwindows", "-obuild\\Game.exe"],
+    "showOutput": "always",
+    "group": {
+        "kind": "build",
+        "isDefault": true
+    }
+}

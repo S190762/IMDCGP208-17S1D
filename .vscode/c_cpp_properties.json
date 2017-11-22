@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceRoot}",
+                "${workspaceRoot}/src",
+                "C:/msys64/mingw64/include/c++/6.3.0",
+                "C:/msys64/mingw64/include/c++/6.3.0/x86_64-w64-mingw32",
+                "C:/msys64/mingw64/include/c++/6.3.0/backward",
+                "C:/msys64/mingw64/lib/clang/3.9.1/include",
+                "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+                "C:/msys64/mingw64/include"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "${workspaceRoot}/src",
+                    "C:/msys64/mingw64/include/c++/6.3.0",
+                    "C:/msys64/mingw64/include/c++/6.3.0/x86_64-w64-mingw32",
+                    "C:/msys64/mingw64/include/c++/6.3.0/backward",
+                    "C:/msys64/mingw64/lib/clang/3.9.1/include",
+                    "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+                    "C:/msys64/mingw64/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "clang_format": {
+        "style": "file",
+        "fallback-style": "LLVM",
+        "sort-includes": "false"
+    },
+    "version": 3
+}
